@@ -1,4 +1,5 @@
 function insert(num) {
-    // Quando fizer a soma aparecer resultado
-    document.getElementById('resultado').innerHTML = num;
+    // Parte de inserção 
+    var numero = document.getElementById('resultado').innerHTML;
+    document.getElementById('resultado').innerHTML = numero + num;
 }
