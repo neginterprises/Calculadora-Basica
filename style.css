@@ -8,11 +8,12 @@
     height: 100vh;
     color: white;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 .calculadora {
     position: absolute;
-    background-color: rgba(204, 2, 255, 0.253);
+    background-color: rgba(204, 2, 255, 0.212);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -23,6 +24,7 @@
 .botao {
     width: 50px;
     height: 50px;
+    margin: 3;
     font-size: 25px;
     cursor: pointer;
     background-color: pink;
@@ -31,4 +33,15 @@
 
 .botao:hover {
     background-color: aliceblue;
+}
+
+#resultado {
+    background-color: aliceblue;
+    width: 207px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
 }
