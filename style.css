@@ -28,7 +28,7 @@
     font-size: 25px;
     cursor: pointer;
     background-color: rgb(80, 46, 2);
-    color: aliceblue;
+    color: rgb(240, 248, 255);
 }
 
 .botao:hover {
@@ -36,7 +36,7 @@
 }
 
 #resultado {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 198px;
     height: 30px;
     margin: 5px;
