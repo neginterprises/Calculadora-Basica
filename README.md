@@ -23,13 +23,13 @@ Este projeto tem como objetivo reforçar conceitos de **manipulação de DOM**, 
 
 | Elemento             | Cor             | Código Hexadecimal                       |
 |----------------------|-----------------|------------------------------------------|
-| Fundo Principal      | Marrom e Branco |`rgb(255, 255, 255), rgb(92, 44, 0)`  |
-| Fundo da Calculadora | Branco          | `rgba(211, 120, 0, 0.459)`             |
-| Tela de Visor        | Cinza Claro     | `rgb(255, 255, 255)`                   |
-| Botões de Números    | Cinza Médio     | `rgb(80, 46, 2)`                       |
-| Botões de Operadores | Azul Escuro     | `rgb(80, 46, 2)`                       |
-| Botão de Igual (=)   | Verde Limão     | `rgb(80, 46, 2)`                       |
-| Texto dos Botões     | Preto           | `rgb(240, 248, 255)`                   |
+| Fundo Principal      | Branco e Marrom |`rgb(255, 255, 255), rgb(92, 44, 0)`  |
+| Fundo da Calculadora | Marrom claro    | `rgba(211, 120, 0, 0.459)`             |
+| Tela de Visor        | Branco          | `rgb(255, 255, 255)`                   |
+| Botões de Números    | Marrom          | `rgb(80, 46, 2)`                       |
+| Botões de Operadores | Marrom          | `rgb(80, 46, 2)`                       |
+| Botão de Igual (=)   | Marrom          | `rgb(80, 46, 2)`                       |
+| Texto dos Botões     | Branco          | `rgb(240, 248, 255)`                   |
 
 Essa paleta foi escolhida para transmitir leveza e modernidade ao design.
 
