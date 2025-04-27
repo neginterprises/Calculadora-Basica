@@ -62,3 +62,10 @@ calculadora/
 ## 📸 Prévia do projeto
 
 (https://neginterprises.github.io/Calculadora-Basica/)
+
+---
+
+## 👨‍💻 Autores
+
+- Natiele Nogueira de Paula
+- Gabriel Vanço Gandolfi
